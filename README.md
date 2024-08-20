@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">Crafting Code with Passion | Android & Game Developer</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611ekky1jggk2iwsjib51qwc5bfoqjuz0op6if23jyf&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="hel-d" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611kgzvq9kmvlf905a0c8bexgy89696cumxpukf6sif&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </p>
 
 - 🔭 I’m currently working on [Metaverse](https://github.com/HEL-d/Dune)
 
@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-pratap-838961318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishal-pratap-838961318" height="30" width="40" /></a>
+<a href="https://medium.com/@pratapvishal849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pratapvishal849" height="30" width="40" /></a>
 <a href="https://discord.gg/aster7085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aster7085" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hel-d&show_icons=true&locale=en&layout=compact" alt="hel-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hel-d&" alt="hel-d" /></p>
+
