@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Crafting Code with Passion | Android & Game Developer</h3>
+<h3 align="center">Crafting Code with Passion | Flutter developer</h3>
 
 <p align="left"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b7611kgzvq9kmvlf905a0c8bexgy89696cumxpukf6sif&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> </p>
 
